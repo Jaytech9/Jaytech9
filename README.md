@@ -4,7 +4,6 @@
 <a href="#">Cybersecurity Explorer</a>, 
 <a href="#">Data Analyst</a></h1>
 
----
 
 <h2>👨‍💻 Software, Tech & Data Projects:</h2>
 
@@ -25,7 +24,6 @@
   [![EDA Python](https://img.shields.io/badge/Repo-EDA_Python-red?logo=github)](https://github.com/rootsec/eda-python)  
   [![Agri Yield](https://img.shields.io/badge/Repo-Agriculture_Yield_Analysis-success?logo=github)](https://github.com/rootsec/agri-yield-analysis)  
 
----
 
 <h2>📊 Skills :</h2>
 
@@ -35,7 +33,6 @@
 - 📊 Data Analysis: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Excel, Power BI, Tableau  
 - ☁️ IT & Cloud: Git, Docker, AWS/Azure (basics)  
 
----
 
 <h2>📺 Learning & Knowledge Sharing</h2>
 
@@ -44,7 +41,6 @@
 - Ongoing Data Analysis Journey (Python & BI Dashboards)  
 - How IT Can Transform Businesses (Mini Projects)  
 
----
 
 
 <h2> 🤳 Connect with me:</h2>
