@@ -7,9 +7,10 @@
 
 <h2>👨‍💻 Software, Tech & Data Projects:</h2>
 
-- <b>Cybersecurity Tools</b>  
-  [![Network Scanner](https://img.shields.io/badge/Repo-Network_Scanner-blue?logo=github)](https://github.com/rootsec/network-scanner)  
-  [![Log Analyzer](https://img.shields.io/badge/Repo-Log_Analyzer-green?logo=github)](https://github.com/rootsec/log-analyzer)  
+- <b>Data Analysis Projects (Ongoing)</b>  
+  [![Sales Dashboard](https://img.shields.io/badge/Repo-Sales_Data_Dashboard-blueviolet?logo=github)](https://github.com/rootsec/sales-dashboard)  
+  [![EDA Python](https://img.shields.io/badge/Repo-EDA_Python-red?logo=github)](https://github.com/rootsec/eda-python)  
+  [![Agri Yield](https://img.shields.io/badge/Repo-Agriculture_Yield_Analysis-success?logo=github)](https://github.com/rootsec/agri-yield-analysis)  
 
 - <b>Agri-Tech Solutions</b>  
   [![Smart Irrigation](https://img.shields.io/badge/Repo-Smart_Irrigation_System-brightgreen?logo=github)](https://github.com/rootsec/smart-irrigation)  
@@ -17,12 +18,13 @@
 
 - <b>Business & IT Projects</b>  
   [![Inventory System](https://img.shields.io/badge/Repo-Inventory_System-lightgrey?logo=github)](https://github.com/rootsec/inventory-system)  
-  [![Biz Automation](https://img.shields.io/badge/Repo-Business_Automation-yellow?logo=github)](https://github.com/rootsec/biz-automation)  
+  [![Biz Automation](https://img.shields.io/badge/Repo-Business_Automation-yellow?logo=github)](https://github.com/rootsec/biz-automation)
 
-- <b>Data Analysis Projects (Ongoing)</b>  
-  [![Sales Dashboard](https://img.shields.io/badge/Repo-Sales_Data_Dashboard-blueviolet?logo=github)](https://github.com/rootsec/sales-dashboard)  
-  [![EDA Python](https://img.shields.io/badge/Repo-EDA_Python-red?logo=github)](https://github.com/rootsec/eda-python)  
-  [![Agri Yield](https://img.shields.io/badge/Repo-Agriculture_Yield_Analysis-success?logo=github)](https://github.com/rootsec/agri-yield-analysis)  
+  
+- <b>Cybersecurity Tools</b>  
+  [![Network Scanner](https://img.shields.io/badge/Repo-Network_Scanner-blue?logo=github)](https://github.com/rootsec/network-scanner)  
+  [![Log Analyzer](https://img.shields.io/badge/Repo-Log_Analyzer-green?logo=github)](https://github.com/rootsec/log-analyzer)  
+
 
 
 <h2>📊 Skills :</h2>
