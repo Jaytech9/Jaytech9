@@ -23,8 +23,7 @@
   
 - <b>Cybersecurity Tools</b>  
   [![Network Scanner](https://img.shields.io/badge/Repo-Network_Scanner-blue?logo=github)](https://github.com/rootsec/network-scanner)  
-  [![Log Analyzer](https://img.shields.io/badge/Repo-Log_Analyzer-green?logo=github)](https://https://jaytech9.github.io/Logalyzer/)  
-
+  [![Log Analyzer](https://img.shields.io/badge/Repo-Log_Analyzer-green?logo=github)](https://jaytech9.github.io/Logalyzer/)
 
 
 <h2>📊 Skills :</h2>
