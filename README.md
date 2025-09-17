@@ -1,8 +1,8 @@
 <h1>Hi, I'm Jones! <br/>
-<a href="https://github.com/rootsec">IT Enthusiast</a>, 
-<a href="#">Agri-Tech Innovator</a>, 
+<a href="https://github.com/rootsec">Data Analys</a>, 
+<a href="#">IT Enthusias</a>, 
 <a href="#">Cybersecurity Explorer</a>, 
-<a href="#">Data Analyst</a></h1>
+<a href="#">Agri-Tech Innovator</a></h1>
 
 
 <h2>👨‍💻 Software, Tech & Data Projects:</h2>
