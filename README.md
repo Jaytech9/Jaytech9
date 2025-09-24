@@ -9,8 +9,8 @@
 
 - <b>Data Analysis Projects </b>  
   [![Sales Dashboard](https://img.shields.io/badge/Repo-Sales_Data_Dashboard-blueviolet?logo=github)](https://github.com/rootsec/sales-dashboard)  
-[![EDA Python](https://img.shields.io/badge/Repo-EDA_Python-red?logo=github)](https://jaytech9.github.io/EDA-Boston/)
-<br> 
+  [![Farm Dashboard](https://img.shields.io/badge/Live-EDA_Boston-orange?logo=github)](https://jaytech9.github.io/EDA-Boston/) <br> 
+
   [![Agri Yield](https://img.shields.io/badge/Repo-Agriculture_Yield_Analysis-success?logo=github)](https://github.com/rootsec/agri-yield-analysis)
   
 
